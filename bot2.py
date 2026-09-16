@@ -4,6 +4,7 @@ import contextlib
 import contextvars
 import getpass
 import hashlib
+import yt_dlp
 import json
 import logging
 import os
