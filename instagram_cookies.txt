@@ -1,0 +1,45 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.docs.google.com	TRUE	/forms/d/e/1FAIpQLSfLCkXN2rlCKwCh8bXj-7-bZplwWJd3D66bXPYzxDIqAXXY-w	TRUE	1789561483	S	spreadsheet_forms=ul8TtfVLp9hOi9m1H2F9_7JNLhal0ooIBu3KpzdFRQ8
+.docs.google.com	TRUE	/forms/d/e/1FAIpQLSfLCkXN2rlCKwCh8bXj-7-bZplwWJd3D66bXPYzxDIqAXXY-w	TRUE	1789561484	COMPASS	spreadsheet_forms=CjIACWuJV9hAlXGHFJUM1I0iPnuvwyrx8C2s3KXVzerMKwiQ8-JgWWx4ZtAtu9cCW5CzjBCIlarVBho0AAlriVcaMMraG7E1UlfTU2OPz9aJLyAjENJFTpzPoiaE4ymfIF-AM-HZUYAHKUVEdRWKyQ==
+.google.com	TRUE	/verify	TRUE	1805367924	SNID	AEcomdRqbrQUvsKMegxAy54qhLseSGDeDWFSl3l1g1vn6z7EG9xMC__teozvXFz5TxvZxIJdabRYDgrVaok252N8-54eGp4FfA
+.google.com	TRUE	/	FALSE	1805108724	SEARCH_SAMESITE	CgQI6KEB
+.google.com	TRUE	/	TRUE	1805108724	AEC	Aaa9EJoVzHerFKOoTRAkFbHT71L-DVKW3VtPn_p35XTM09vH0hUR-jdE_NI
+.chromewebstore.google.com	TRUE	/	FALSE	1824118118	_ga	GA1.1.643534425.1789556734
+chromewebstore.google.com	FALSE	/	TRUE	1792148776	OTZ	8787546_44_44__44_
+.tiktok.com	TRUE	/	TRUE	1805109229	tt_chain_token	euQKHQgqaBGfOUQypEDj6A==
+.www.tiktok.com	TRUE	/	TRUE	1815477230	tiktok_webapp_theme_source	light
+.www.tiktok.com	TRUE	/	TRUE	1815477230	tiktok_webapp_theme	light
+.www.tiktok.com	TRUE	/	TRUE	1789988822	perf_feed_cache	{%22expireTimestamp%22:1790161200000%2C%22itemIds%22:[%227683197353771273490%22]}
+accounts.google.com	FALSE	/	TRUE	1824116856	__Host-GAPS	1:uqfwTYWUi4KoKowD7baUjMEQqTdFIA:CXj3xPRJ1gvTYa2J
+accounts.google.com	FALSE	/	TRUE	1792148863	OTZ	8787548_44_44__44_
+.google.com	TRUE	/	TRUE	1805367924	NID	CqwCCAES3gEBp2sxrgdhwNo792rmjcRAA57fHk3rL6X_4cjV3yI36uaDOk9I3JwkhQVgdmW-VeFAYFv6zWJa1p-9amv-Y05LJPUzKUTXQb0KahJDS_GOM0Ml11yb6irZajrAg2sIKjV3_iTk15W0ZEdy4zTKd5yBLdcMx6Lkqyb5aXU2QKqbaLmOho7x1zMF0Pa8rhKC3rjqeTM4cmm105fI9FGu8PZ8H1olqbIyg2ejyAvtaVevjfP9mNp_y0Lvyx7OeiwjNsxqWwIvbCVMb48efPq5CrtBZKVpFQCvlYLMtn98FWEoATJFAQ4r3hF6K2U6xVRW128qojx8ARllhOuWf1CswVGlZLmTpXOFaQr00h7BztkM4v3UV8CbklZoDeWBrcOSqkHRM4FBM5wJ
+.tiktok.com	TRUE	/	TRUE	0	tt_csrf_token	ZGsYXNbH-7SIKc9i610EqqFGPYAKFfK90DCs
+.tiktok.com	TRUE	/	TRUE	0	s_v_web_id	verify_mu401725_5cRpipWL_XD6X_4LWi_BTUG_pWAxXEJ6fLj4
+www.tiktok.com	FALSE	/	FALSE	1797333004	msToken	yW-52Hdjn47v6EJSQiFhaiUwXlOHe5MQYuaf7cSW01I6N6a0hs1iAv7gdDcxqvmNDoJiV3zo31NxzJR5e0JckzUtI5TuW9yEmXt7eKEGLSX2QKCDDwyswVCiMBx-8caN6g5uOBnANimW8Q7GfAQgOLIkQ-UI_ybdFjA1fBHc
+.tiktok.com	TRUE	/	FALSE	1821093231	odin_tt	7f82918f353a94151f550b9196ad5599610b7f03f2a18616139659c6568611c4
+.tiktok.com	TRUE	/	TRUE	1821093231	ttwid	1%7C4WRx-1sNtvlxuyeCdvxHXyhj9_znAX7PGvB4jH5D1PE%7C1789557230%7Cbbf054622d823bc4688bc929e8bee6998bfff6c6510508416c8605d31b2a3f10
+.tiktok.com	TRUE	/	TRUE	1790421232	msToken	6JKoUh6ah0bq6ZgQGr6Hj6qAQ2UVw9rcZrVL9hooHTRD2wFzulXKW2fxGiXt6vz1F8nXrKTR74JMN9tqaK2wHbZgh2I2n9byd0047YxFaVLZz8-7xfr9UPYUB8tDmF7jCYyLIckVREsAcGU4VcCQrLKmp2z_6K6bvXvqwZiR
+www.tiktok.com	FALSE	/	TRUE	1805109234	g_state	{"i_l":0,"i_ll":1789557234088,"i_b":"fqgFLllEyg+Hoyx/QsmXVCYkGxN6BK8VGlGRQRuFVVg","i_e":{"enable_itp_optimization":24},"i_et":1789557234088}
+.instagram.com	TRUE	/	TRUE	1824118299	csrftoken	8_lF5A8749Ejh5OuQckFjV
+.instagram.com	TRUE	/	TRUE	1824117236	datr	83mqatDN0esMGxACgbcT-kXk
+.instagram.com	TRUE	/	TRUE	1821093236	ig_did	25A46CB2-6E7D-49F2-AEDD-94539F1A18AD
+.instagram.com	TRUE	/	TRUE	1790163095	dpr	5.998048782348633
+.instagram.com	TRUE	/	TRUE	1824117249	mid	aqp59AABAAHbvB2LwCWKRbkC0AN8
+.instagram.com	TRUE	/	TRUE	1797334299	ds_user_id	5430887042
+.instagram.com	TRUE	/	TRUE	1821093274	sessionid	5430887042%3AgC3qTpAZ611htu%3A19%3AAYnk4_TbW1fv7MHRHwLGd_V9Lo3aApRoePU8eL6Uug
+.facebook.com	TRUE	/	TRUE	1797333329	fr	0iACRpYE5DlCl5rQ0.AWc6P-4Ggukz6GHyVjpK260XrzwxbOQ1icxytg85DDSsn_cg6cY.BqqnpP..AAA.0.0.BqqnpP.AWfov0SRNDeWFL0PaG3dGBWDEf4
+extension.vn	FALSE	/	TRUE	1824117886	evn_client_key	e6841cd4378fe407f59105f910fb8eeadcf209834792b9e14aecce4a3421237c
+extension.vn	FALSE	/	FALSE	1821093893	oa_vid	v_mu40kbhd_j3mh6kw3
+extension.vn	FALSE	/	FALSE	1789559693	oa_sid	s_mu40kbhi_xlgq4elk
+extension.vn	FALSE	/	FALSE	1789559693	oa_vst	vt_mu40kbhr_4tawzb62
+extension.vn	FALSE	/	TRUE	1805109895	g_state	{"i_l":0,"i_ll":1789557895894,"i_b":"qrMjLp4MygsR7eQ2BYgA+kozdGb0eiV3P04If0CTnv0","i_e":{"enable_itp_optimization":24},"i_et":1789557895894}
+extension.vn	FALSE	/	FALSE	1789559696	oa_sid_at	1789557896235
+extension.vn	FALSE	/	FALSE	1789559696	oa_vst_at	1789557896235
+.instagram.com	TRUE	/	TRUE	1790163095	wd	180x338
+.chromewebstore.google.com	TRUE	/	FALSE	1824118118	_ga_T1753RVHPT	GS2.1.s1789556755$o1$g1$t1789558118$j60$l0$h0
+.chromewebstore.google.com	TRUE	/	FALSE	1824118288	_ga_KHZNC1Q6K0	GS2.1.s1789556733$o1$g1$t1789558288$j18$l0$h0
+.google.com	TRUE	/	TRUE	1789558594	__Secure-STRP	ANmZwa1gogn_GCiiSz3JsllfkCZqowcFw701hKRZ6Io1DkLjfJ1Ko0o57F0PsQZoqlbikVDh-g_l0E4swZ7IN8eh-UXAErgIsX4i
+.instagram.com	TRUE	/	TRUE	0	rur	CLN%2C17841405491278860%2C1790767902%3A01fff42a7c7c1a15297bf301832d429b443aa7f8107af0cdce025392d763400d8bbe6159
