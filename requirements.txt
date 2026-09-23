@@ -10,3 +10,4 @@ static-ffmpeg
 yt-dlp[default]
 deno>=2.3.0
 Telethon>=1.45,<2
+py-tgcalls[telethon]
