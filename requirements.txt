@@ -2,12 +2,9 @@ python-telegram-bot>=21.0
 python-dotenv>=1.0.0
 requests>=2.31.0
 typing-extensions>=4.8.0
-yt-dlp>=2024.0.0
+yt-dlp[default]
 ffmpeg-python>=0.2.0
 pylast>=5.2.0
 pytubefix
 static-ffmpeg
-yt-dlp[default]
-deno>=2.3.0
-Telethon>=1.45,<2
 py-tgcalls[telethon]
